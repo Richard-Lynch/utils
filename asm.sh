@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # yno file for yes no checks
-source /home/norm/programs/scripts/yno.sh
+source /home/norm/programs/scripts/utils/yno.sh
 
 expextedExtension=".asm"
 
